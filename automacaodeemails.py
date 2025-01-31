@@ -14,7 +14,7 @@ navegador.maximize_window()
 time.sleep(1)
 
 # preencher login
-navegador.find_element(by=By.ID, value="i0116").send_keys("teste@hotmail.com")
+navegador.find_element(by=By.ID, value="i0116").send_keys("leandro_m.dias@hotmail.com")
 
 time.sleep(1)
 
